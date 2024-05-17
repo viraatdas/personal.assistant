@@ -1,1 +1,2 @@
-print("initialize this file")
+ADDRESS = ""
+NAME = ""
